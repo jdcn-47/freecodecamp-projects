@@ -1,4 +1,4 @@
-# freecodecamp-projects
+# Freecodecamp-projects
 
 * Repository intended to store exercises and projects developed during FreeCodeCamp certifications.
 
